@@ -1,4 +1,4 @@
 # Consumindo API
 
-[Ver o arquivo index.html](index.html)
+<a href="../index.html">Site</a>
 
